@@ -1,5 +1,6 @@
 # Virtual_Fitting_Room
 2016 Mar - 2016 Dec
+Based on MS SDK
 #### Function:
 ###### 1.Locating the skeleton line on body.
 ![image](https://github.com/MaureenLmy/Virtual_Fitting_Room/blob/master/img/skeleton_line.png)
